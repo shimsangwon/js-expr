@@ -1,0 +1,17 @@
+{
+  "packageManager": "yarn@4.0.2",
+  "scripts": {
+    "test": "vitest ."
+  },
+  "devDependencies": {
+    "@types/babel__code-frame": "^7.0.6",
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.0"
+  },
+  "dependencies": {
+    "@babel/code-frame": "^7.23.5",
+    "@babel/parser": "^7.23.6",
+    "fp-ts": "^2.16.1"
+  }
+}
